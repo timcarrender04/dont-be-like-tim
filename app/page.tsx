@@ -7,7 +7,7 @@ import { Button } from "@heroui/button";
 import { Card, CardBody, CardHeader } from "@heroui/card";
 import { Spinner } from "@heroui/spinner";
 
-import { title, subtitle } from "@/components/primitives";
+import { title, subtitle } from "../components/primitives";
 
 type Finding = {
   path?: string;
